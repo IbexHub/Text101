@@ -1,0 +1,6 @@
+You wake up in a room with little to no light.Your head hurts. You are thirsty but not hungry. In front of you is a piece of paper and a donut.
+"Eat the donut" is written on the note.
+
+Do you eat the donut?
+1.Yes
+2.No
